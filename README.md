@@ -22,7 +22,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y au
 
 <br clear="right"/>
 
----
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -38,7 +38,8 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y au
 - **Automatizaciónes:** BotFather
 - **IA/ML:** Google Gemini API
 - **Control de Versiones:** Git, GitHub
----
+  
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## 🚀 Proyectos Destacados
 
@@ -80,7 +81,8 @@ Cuando no estoy programando, me encontrarás:
 - Contribuyendo a proyectos open source
 <br clear="right"/>
 
----
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 ## 📫 Conecta Conmigo
 
 <div align="center">
@@ -91,6 +93,7 @@ Cuando no estoy programando, me encontrarás:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584120355358)
 </div>
 
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ## 💭 Pensamiento del Día
 <div align="center">
