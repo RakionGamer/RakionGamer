@@ -29,7 +29,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y au
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,react,nextjs,nodejs,wordpress,mysql,postgres,git,github,vscode,firebase,vercel,html,css,python,mongodb,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=php,js,react,nextjs,nodejs,wordpress,mysql,postgres,git,github,vscode,firebase,vercel,html,css,python,mongodb,docker,n8n&perline=8" />
 </p>
 
 ### 💻 Stack Principal
@@ -37,7 +37,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y au
 - **Backend:** PHP, Node.js, Bun.js
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB
 - **CMS:** WordPress
-- **Automatización:** Telegram Bots, Excel
+- **Automatización:** BotFather, n8n
 - **IA/ML:** Google Gemini API
 - **Control de Versiones:** Git, GitHub
 ---
