@@ -37,7 +37,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y au
 - **Backend:** PHP, Node.js, Bun.js
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB
 - **CMS:** WordPress
-- **Automatización:** BotFather, n8n
+- **Automatizaciónes:** BotFather, n8n
 - **IA/ML:** Google Gemini API
 - **Control de Versiones:** Git, GitHub
 ---
