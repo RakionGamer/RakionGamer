@@ -1,6 +1,5 @@
 <!--Banner-->
-![Ricardo Valera Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:1E3A8A&height=200&section=header&text=Ricardo%20Valera&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
-<!--Header-->
+![Ricardo Valera Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:1E40AF&height=200&section=header&text=Ricardo%20Valera&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)<!--Header-->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Developer;Automation+Enthusiast;Passionate+Gamer" alt="Typing SVG" />
 </div>
