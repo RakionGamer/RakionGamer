@@ -5,10 +5,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Full+Stack+Developer;Automation+Enthusiast;Passionate+Gamer" alt="Typing SVG" />
 </div>
-
 <br />
 
-<!--Start Intro-->
 ## 👋 ¡Hola! Soy Ricardo Argenis Valera Bolívar
 
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -31,18 +29,17 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y au
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,react,nextjs,nodejs,wordpress,mysql,postgres,git,github,vscode,telegram,html,css,python,excel&perline=8" />
+  <img src="https://skillicons.dev/icons?i=php,js,react,nextjs,nodejs,wordpress,mysql,postgres,git,github,vscode,firebase,vercel,html,css,python,mongodb,bunjs&perline=8" />
 </p>
 
 ### 💻 Stack Principal
 - **Frontend:** React, Next.js, HTML, CSS, JavaScript
-- **Backend:** PHP, Node.js
-- **Bases de Datos:** MySQL, PostgreSQL
+- **Backend:** PHP, Node.js, Bun.js
+- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
 - **CMS:** WordPress
-- **Automatización:** Telegram Bots, Excel, Google Sheets
+- **Automatización:** Telegram Bots, Excel
 - **IA/ML:** Google Gemini API
 - **Control de Versiones:** Git, GitHub
-
 ---
 
 ## 🚀 Proyectos Destacados
@@ -74,19 +71,6 @@ Desarrollo completo del sitio web institucional.
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RakionGamer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakionGamer&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RakionGamer&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🎮 Más Allá del Código
 
 Cuando no estoy programando, me encontrarás:
@@ -97,11 +81,9 @@ Cuando no estoy programando, me encontrarás:
 - 👻 Explorando el terror en MADiSON
 - 📚 Aprendiendo nuevas tecnologías
 - 🤝 Contribuyendo a proyectos open source
-
 <br clear="right"/>
 
 ---
-
 ## 📫 Conecta Conmigo
 
 <div align="center">
@@ -121,12 +103,11 @@ Cuando no estoy programando, me encontrarás:
 ---
 
 <div align="center">
-### 🌟 "El código es poesía, los bugs son... experiencias de aprendizaje" 🌟
+🌟 "El código es poesía, los bugs son... experiencias de aprendizaje" 🌟
 </div>
 
 <!--Footer-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
 ---
 
 **💼 Disponible para proyectos freelance y colaboraciones**
