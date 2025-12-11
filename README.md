@@ -16,7 +16,7 @@
 Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y automatizar procesos. Me encanta trabajar con tecnologías modernas y siempre estoy aprendiendo algo nuevo.
 
 - 🎓 Ingeniero en Informática (2020-2025)
-- 💼 Desarrollador Full-Stack en Asesorías Speed
+- 💼 Desarrollador Full-Stack
 - 🤖 Especialista en automatización y bots
 - 🎮 Gamer apasionado: CS2, League of Legends, MADiSON
 - 🌱 Aprendiendo constantemente nuevas tecnologías
@@ -29,7 +29,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y au
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,react,tailwind,nextjs,nodejs,wordpress,mysql,postgres,git,github,vscode,firebase,vercel,html,css,python,mongodb,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=php,js,react,tailwind,nextjs,nodejs,bun,javascript,typescript,wordpress,mysql,postgres,git,github,vscode,firebase,vercel,html,css,python,mongodb,docker&perline=8" />
 </p>
 
 ### 💻 Stack Principal
