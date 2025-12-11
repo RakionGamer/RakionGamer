@@ -44,27 +44,27 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y au
 
 ## 🚀 Proyectos Destacados
 
-### 🤖 Bot de Telegram - Generación de Imágenes
+### Bot de Telegram - Generación de Imágenes
 Sistema automatizado que genera imágenes a partir de datos extraídos de hojas de cálculo Excel mediante Telegram.
 - **Tech Stack:** Telegram API, Excel Integration
 - **Cliente:** Asesorías Speed, Chile
 
-### 🔍 Bot OCR con IA
+### Bot OCR con IA
 Bot de Telegram con procesamiento OCR integrado con Google Gemini para extracción inteligente de datos de imágenes.
 - **Tech Stack:** React, Next.js, Telegram API, Google Gemini
 - **Cliente:** Asesorías MultiPowerSpa, Chile
 
-### 💼 Sistema de Gestión Empresarial
+### Sistema de Gestión Empresarial
 Sistema completo de gestión con backend y frontend, incluyendo base de datos relacional.
 - **Tech Stack:** PHP, MySQL
 - **Cliente:** Asesorías Speed, Chile
 
-### 🚌 Sistema de Gestión de Transporte Municipal
+### Sistema de Gestión de Transporte Municipal
 Sistema CRUD para la gestión del transporte de la Alcaldía Diego Ibarra.
 - **Tech Stack:** PHP, MySQL
 - **Cliente:** Alcaldía Diego Ibarra, Carabobo
 
-### ⚽ Sitio Web Academia de Fútbol CARF
+### Sitio Web Academia de Fútbol CARF
 Desarrollo completo del sitio web institucional.
 - **Tech Stack:** WordPress/HTML/CSS
 - **URL:** carf.cl
@@ -76,11 +76,11 @@ Desarrollo completo del sitio web institucional.
 Cuando no estoy programando, me encontrarás:
 
 <img align="right" width="30%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-- 🎯 Jugando Counter-Strike 2
-- 🏆 Rankeo en League of Legends
-- 👻 Explorando el terror en MADiSON
-- 📚 Aprendiendo nuevas tecnologías
-- 🤝 Contribuyendo a proyectos open source
+- Jugando Counter-Strike 2
+- Rankeando en League of Legends
+- Explorando el terror en MADiSON
+- Aprendiendo nuevas tecnologías
+- Contribuyendo a proyectos open source
 <br clear="right"/>
 
 ---
@@ -99,7 +99,6 @@ Cuando no estoy programando, me encontrarás:
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
-
 ---
 
 <div align="center">
@@ -110,6 +109,6 @@ Cuando no estoy programando, me encontrarás:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 ---
 
-**💼 Disponible para proyectos freelance y colaboraciones**
+**Disponible para proyectos freelance y colaboraciones**
 
-*Última actualización: Diciembre 2024*
+*Última actualización: Diciembre 2025*
