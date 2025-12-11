@@ -93,13 +93,13 @@ Cuando no estoy programando, me encontrarás:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RakionGamer)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584120355358)
 </div>
----
+
 
 ## 💭 Pensamiento del Día
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
----
+
 
 <div align="center">
 🌟 "El código es poesía, los bugs son... experiencias de aprendizaje" 🌟
@@ -107,7 +107,7 @@ Cuando no estoy programando, me encontrarás:
 
 <!--Footer-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
----
+
 
 **Disponible para proyectos freelance y colaboraciones**
 
