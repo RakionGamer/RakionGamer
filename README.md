@@ -27,12 +27,12 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y au
 ## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,react,reactnative,tailwind,nextjs,nodejs,bun,typescript,wordpress,mysql,postgres,vite,git,github,vscode,vercel,html,css,python,mongodb,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=php,js,react,tailwind,nextjs,nodejs,bun,typescript,wordpress,mysql,postgres,vite,git,github,vscode,vercel,html,css,python,mongodb,docker&perline=8" />
 </p>
 
 ### 💻 Stack Principal
 - **Frontend:** React, Next.js, HTML, CSS, JavaScript, Tailwind, Vite
-- **Backend:** PHP, Node.js, Bun.js
+- **Backend:** PHP, Node.js, Bun.js, Python
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB
 - **CMS:** WordPress
 - **Automatizaciónes:** BotFather
