@@ -76,10 +76,10 @@ Desarrollo completo del sitio web institucional.
 Cuando no estoy programando, me encontrarás:
 
 <img align="right" width="30%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-- Jugando Counter-Strike 2
-- Rankeando en League of Legends
-- Explorando el terror en MADiSON
-- Aprendiendo nuevas tecnologías
+- Jugando Counter-Strike 2 <br>
+- Rankeando en League of Legends <br>
+- Explorando el terror en MADiSON <br>
+- Aprendiendo nuevas tecnologías <br>
 - Contribuyendo a proyectos open source
 <br clear="right"/>
 
