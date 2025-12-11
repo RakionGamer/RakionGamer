@@ -33,7 +33,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y au
 </p>
 
 ### 💻 Stack Principal
-- **Frontend:** React, Next.js, HTML, CSS, JavaScript
+- **Frontend:** React, Next.js, HTML, CSS, JavaScript, Tailwind, Vite
 - **Backend:** PHP, Node.js, Bun.js
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB
 - **CMS:** WordPress
