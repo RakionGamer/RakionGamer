@@ -36,6 +36,7 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y au
 - **Automatizaciónes:** BotFather
 - **IA/ML:** Google Gemini API
 - **Control de Versiones:** Git, GitHub
+- **DevOps y Virtualización:** Docker
   
 
 ## 🚀 Proyectos Destacados
