@@ -37,35 +37,6 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y au
 - **IA/ML:** Google Gemini API
 - **Control de Versiones:** Git, GitHub
 - **DevOps y Virtualización:** Docker
-  
-
-## 🚀 Proyectos Destacados
-
-### Bot de Telegram - Generación de Imágenes
-Sistema automatizado que genera imágenes a partir de datos extraídos de hojas de cálculo Excel mediante Telegram.
-- **Tech Stack:** Telegram API, Excel Integration
-- **Cliente:** Asesorías Speed, Chile
-
-### Bot OCR con IA
-Bot de Telegram con procesamiento OCR integrado con Google Gemini para extracción inteligente de datos de imágenes.
-- **Tech Stack:** React, Next.js, Telegram API, Google Gemini
-- **Cliente:** Asesorías MultiPowerSpa, Chile
-
-### Sistema de Gestión Empresarial
-Sistema completo de gestión con backend y frontend, incluyendo base de datos relacional.
-- **Tech Stack:** PHP, MySQL
-- **Cliente:** Asesorías Speed, Chile
-
-### Sistema de Gestión de Transporte Municipal
-Sistema CRUD para la gestión del transporte de la Alcaldía Diego Ibarra.
-- **Tech Stack:** PHP, MySQL
-- **Cliente:** Alcaldía Diego Ibarra, Carabobo
-
-### Sitio Web Academia de Fútbol CARF
-Desarrollo completo del sitio web institucional.
-- **Tech Stack:** WordPress/HTML/CSS
-- **URL:** carf.cl
-
 
 ## 🎮 Más Allá del Código
 
