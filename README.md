@@ -30,8 +30,8 @@ Soy un desarrollador Full Stack apasionado por crear soluciones innovadoras y au
 
 ### 💻 Stack Principal
 - **Frontend:** React, Next.js, HTML, CSS, JavaScript, Tailwind, Vite
-- **Backend:** PHP, Node.js, Bun.js, Python
-- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
+- **Backend:** Node.js
+- **Bases de Datos:** MySQL, MongoDB
 - **CMS:** WordPress
 - **Automatizaciónes:** BotFather
 - **IA/ML:** Google Gemini API
